@@ -1,0 +1,14 @@
+{
+	"manifest_version": 1,
+	"id": "io.github.jcwmoore.taskhelpers",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Task Helpers",
+	"description": "Automations and helper for task notes.",
+	"author": "John Moore (john@johnclaytonmoore.com)",
+	"homepage_url": "https://github.com/jcwmoore/joplin-plugin-task-helpers",
+	"repository_url": "https://github.com/jcwmoore/joplin-plugin-task-helpers",
+	"keywords": [],
+	"_publish_hash": "sha256:9acf518427ef9579b22f33c13cdf6bbd76c545dbb4cafc54bd023db01a588449",
+	"_publish_commit": "main:9d11c0e87c01f79448859649bac90a63224b4b95"
+}
